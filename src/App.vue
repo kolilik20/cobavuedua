@@ -1,4 +1,4 @@
-<template>
+<template> <!-- Coba GIT -->
 <section>
     <header>
       <h1>My Friends</h1>
